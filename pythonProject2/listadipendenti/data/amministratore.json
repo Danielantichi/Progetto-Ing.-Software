@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "danielantichi",
+    "password" : "1",
+    "nome" : "Daniel",
+    "cognome" : "Antichi",
+    "datanascita" : "26/09/2000",
+    "luogonascita" : "Atessa",
+    "cf" : "NTCDNL00P26A485Z",
+    "telefono" : "3297162345",
+    "email" : "daniel.antichi@mail.com",
+    "ruolo" : "AMMINISTRATORE"
+  }
+]
